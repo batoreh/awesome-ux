@@ -11,7 +11,7 @@ _an awesome list about User Experience disciplines_
 * [UX Apprentice](http://www.uxapprentice.com/);
 * [Usability.gov](http://www.usability.gov/)
 * [uxBooth](http://www.uxbooth.com/)
-
+* [Web Style Guide](http://webstyleguide.com/wsg3/index.html)
 ## Articles 
 
 ###General/Introdutions
@@ -23,10 +23,11 @@ _an awesome list about User Experience disciplines_
 ###Information Architecture 
 
 - [Information Architecture Basics](http://www.usability.gov/what-and-why/information-architecture.html)
+- [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
 - [Organization Schemes](http://www.usability.gov/how-to-and-tools/methods/organization-schemes.html)
 - [Organization Structure](http://www.usability.gov/how-to-and-tools/methods/organization-structures.html)
 - [Classification Schemes (and When to Use Them)](http://www.uxbooth.com/articles/classification-schemes-and-when-to-use-them/)
-- 
+
 ### Interaction Design
 
 ### Usability
