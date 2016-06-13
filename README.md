@@ -52,7 +52,6 @@ _an awesome list about User Experience disciplines_
 - [Costumer journey mapping](http://www.disambiguity.com/customer-journey-mapping/)
 - [Costumer journey template (download)](http://www.uxapprentice.com/assets/files/UX-Apprentice-Templates.bmpr.zip)
 - [Project Objectives and Approach for UX Designers: Know Which Star to Navigate By](http://www.peachpit.com/articles/article.aspx?p=1856033)
-- 
 
 ### Web analytics
 
