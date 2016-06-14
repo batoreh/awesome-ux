@@ -40,6 +40,7 @@ _an awesome list about User Experience disciplines_
 
 - [Acessibility basics](http://www.usability.gov/what-and-why/accessibility.html)
 - [Lost and Found – Mapping Page](http://www.digitalgov.gov/about/lost-and-found-mapping-page/)
+- [7 things every designer needs to know about accessibility] (https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b#.tdvecuoag)
 
 ### User Research
 
