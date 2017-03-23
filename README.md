@@ -5,7 +5,7 @@
 
 _an awesome list about User Experience disciplines_
 
-##Sites/Blogs 
+## Sites/Blogs 
 
 * [Usabilla Blog](http://blog.usabilla.com/);
 * [UX Apprentice](http://www.uxapprentice.com/);
@@ -16,14 +16,14 @@ _an awesome list about User Experience disciplines_
 
 ## Articles 
 
-###General/Introdutions
+### General/Introdutions
 
 - [User Experience Design — Best sources to learn UX](https://blog.prototypr.io/user-experience-design-best-sources-to-learn-ux-c67bf80484ce?gi=6461d61df424#.5hk6cjd57);
 - [How To Get Started In UX Design](http://uxmastery.com/how-to-get-started-in-ux-design/);
 - [The Secret to Designing an Intuitive UX : Match the Mental Model to the Conceptual Model](https://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience);
 - [23 tips on how to AB test like a badass](https://searchenginewatch.com/sew/how-to/2223888/23-tips-on-how-to-a-b-test-like-a-badass)
 
-###Information Architecture 
+### Information Architecture 
 
 - [Information Architecture Basics](http://www.usability.gov/what-and-why/information-architecture.html)
 - [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/)
