@@ -1,6 +1,6 @@
 ### **Awesome UX** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of delightful UX resources. Missing something? contribute with us! 
+> User Experience Design is when we develop things caring about how user will interact with it. Basically, the User Experiences cares about the users happiness and cares about give better conditions to who are behind the creation. Missing something in this list? Contribute with us.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
