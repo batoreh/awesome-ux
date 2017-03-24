@@ -4,6 +4,10 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+<p align="center">
+  <img src="https://github.com/netoguimaraes/awesome-ux/blob/master/Untitled.png"/>
+</p>
+
 ## Table of Contents
 * [Blogs](#blogs)
 * [Tools](#tools)
