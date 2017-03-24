@@ -29,11 +29,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   * [Web Analytics](#web-analytics)
 
 ## Blogs
-- [Signal v. noise: design](https://signalvnoise.com/design)
-- [Smashing Magazine](http://www.smashingmagazine.com/category/uxdesign/)
-- [UX Booth](http://www.uxbooth.com/)
-- [UX Movement](http://uxmovement.com/)
-- [InvisionApp Blog](http://blog.invisionapp.com/)
+- [Signal v. noise: design](https://signalvnoise.com/design): The UX section of Signal v. noise site.
+- [Smashing Magazine](http://www.smashingmagazine.com/category/uxdesign/): An UX section of Smashing Magazine; 
+- [UX Booth](http://www.uxbooth.com/): A publication by and for the user experience community.
+- [UX Movement](http://uxmovement.com/): An UX blog that publishes articles showing how good and bad interface design practices affect user behavior.
+- [InvisionApp Blog](http://blog.invisionapp.com/): A blog by invisionApp.
 - [Designmodo](http://designmodo.com/design/ux-design/)
 - [UX Mag](http://uxmag.com/)
 - [UX Pin](http://blog.uxpin.com/)
@@ -41,7 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [UX Colombo](http://www.uxcolombo.org/blog/category/articles/)
 - [Inspire UX](http://www.inspireux.com/)
 - [Akendi Blog](http://akendi.com/blog/general-ux/)
-- [Fool Proof](http://www.foolproof.co.uk/thinking/)
+- [Fool Proof](http://www.foolproof.co.uk/thinking/): Watching for new behaviours and sharing what we learn
 - [Usability Gee](http://usabilitygeek.com/)
 - [Usabilla](http://blog.usabilla.com/)
 - [52 Weeks of UX](http://52weeksofux.com/)
