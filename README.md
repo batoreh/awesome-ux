@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Designmodo](http://designmodo.com/design/ux-design/)
 - [UX Mag](http://uxmag.com/)
 - [UX Pin](http://blog.uxpin.com/)
-- [Johnny Holland](http://johnnyholland.org/
+- [Johnny Holland](http://johnnyholland.org/)
 - [UX Colombo](http://www.uxcolombo.org/blog/category/articles/)
 - [Inspire UX](http://www.inspireux.com/)
 - [Akendi Blog](http://akendi.com/blog/general-ux/)
