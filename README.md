@@ -4,6 +4,26 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+## Table of Contents
+* [Blogs](#blogs)
+* [Tools](#tools)
+* [Desgin Patterns](#design-patterns)
+* [Communities](#communities)
+* [Books](#blogs)
+* [Videos](#videos)
+* [Flows](#flows)
+* [Inspiration](#inspiration)
+* [Freebies](#freebies)
+* [Guides](#guides)
+* [Surveys](#surveys)
+* [Articles](#articles)
+  * [General and Introductions](#generalintrodutions)
+  * [Information Archtecture](#information-archtecture)
+  * [Visual Design](#visual-design)
+  * [Acessibility](#acessibility)
+  * [User Research](#user-research)
+  * [Web Analytics](#web-analytics)
+
 ## Blogs
 - [Signal v. noise: design](https://signalvnoise.com/design)
 - [Smashing Magazine](http://www.smashingmagazine.com/category/uxdesign/)
@@ -42,9 +62,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Communities
 - http://ux.stackexchange.com/
 - http://www.designerhangout.co/
-
-## UI Kits
-- http://www.teehanlax.com/tools/iphone/
 
 ## Books
 - http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
