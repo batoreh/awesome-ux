@@ -1,18 +1,79 @@
-# awesome-ux
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+### **Awesome UX** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="https://raw.githubusercontent.com/netoguimaraes/awesome-ux/master/Untitled.png" alt="awesome-ux-logo" style="display:block; margin: 0px auto; width: 100%; height: 300px;">
+> A curated list of delightful UX resources. Missing something? contribute with us! 
 
-_an awesome list about User Experience disciplines_
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Sites/Blogs 
-
-* [Usabilla Blog](http://blog.usabilla.com/);
+## Blogs
+- [Signal v. noise: design](https://signalvnoise.com/design)
+- [Smashing Magazine](http://www.smashingmagazine.com/category/uxdesign/)
+- [UX Booth](http://www.uxbooth.com/)
+- [UX Movement](http://uxmovement.com/)
+- [InvisionApp Blog](http://blog.invisionapp.com/)
+- [Designmodo](http://designmodo.com/design/ux-design/)
+- [UX Mag](http://uxmag.com/)
+- [UX Pin](http://blog.uxpin.com/)
+- [Johnny Holland](http://johnnyholland.org/
+- [UX Colombo](http://www.uxcolombo.org/blog/category/articles/)
+- [Inspire UX](http://www.inspireux.com/)
+- [Akendi Blog](http://akendi.com/blog/general-ux/)
+- [Fool Proof](http://www.foolproof.co.uk/thinking/)
+- [Usability Gee](http://usabilitygeek.com/)
+- [Usabilla](http://blog.usabilla.com/)
+- [52 Weeks of UX](http://52weeksofux.com/)
+- [Usability Post](http://usabilitypost.com/)
 * [UX Apprentice](http://www.uxapprentice.com/);
 * [Usability.gov](http://www.usability.gov/)
-* [uxBooth](http://www.uxbooth.com/)
-* [Web Style Guide](http://webstyleguide.com/wsg3/index.html)
 * [UX DesignEdge](http://www.uxdesignedge.com/)
+* [Web Style Guide](http://webstyleguide.com/wsg3/index.html)
+
+## Tools
+- http://www.invisionapp.com/
+- http://www.uxpin.com/
+- http://gomockingbird.com
+- http://uxchecklist.github.io/
+
+## Design Patterns
+- http://pttrns.com/
+- http://www.lovelyui.com/
+- http://useyourinterface.com/
+- http://inspired-ui.com/
+
+## Communities
+- http://ux.stackexchange.com/
+- http://www.designerhangout.co/
+
+## UI Kits
+- http://www.teehanlax.com/tools/iphone/
+
+## Books
+- http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
+- http://www.amazon.com/gp/product/0321725522/
+- http://www.amazon.com/gp/product/1933820241
+- http://www.amazon.com/dp/0465050654/
+
+## Videos
+- https://vimeo.com/15772341
+
+## Flows
+- http://uxarchive.com/
+
+## Inspiration
+- https://tindddle.com/
+- http://guiporn.com/
+- http://littlebigdetails.com/
+- http://abduzeedo.com/
+
+## Freebies
+- http://makerbook.net/
+- http://pixelbuddha.net/
+- http://graphicburger.com/
+
+## Guides
+- http://www.google.com/design/
+
+## Surveys
+- http://garyperlman.com/quest/
 
 ## Articles 
 
