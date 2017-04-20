@@ -104,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How To Get Started In UX Design](http://uxmastery.com/how-to-get-started-in-ux-design/);
 - [The Secret to Designing an Intuitive UX : Match the Mental Model to the Conceptual Model](https://uxmag.com/articles/the-secret-to-designing-an-intuitive-user-experience);
 - [23 tips on how to AB test like a badass](https://searchenginewatch.com/sew/how-to/2223888/23-tips-on-how-to-a-b-test-like-a-badass)
+- [Books to get you started in UX](https://medium.com/wemake-services/books-to-get-you-started-in-ux-742e44d4c56d)
 
 ### Information Architecture 
 
