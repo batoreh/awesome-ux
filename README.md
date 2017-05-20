@@ -34,16 +34,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [UX Booth](http://www.uxbooth.com/): A publication by and for the user experience community.
 - [UX Movement](http://uxmovement.com/): An UX blog that publishes articles showing how good and bad interface design practices affect user behavior.
 - [InvisionApp Blog](http://blog.invisionapp.com/): A blog by invisionApp.
-- [Designmodo](http://designmodo.com/design/ux-design/)
-- [UX Mag](http://uxmag.com/)
-- [UX Pin](http://blog.uxpin.com/)
-- [Johnny Holland](http://johnnyholland.org/)
-- [UX Colombo](http://www.uxcolombo.org/blog/category/articles/)
-- [Inspire UX](http://www.inspireux.com/)
-- [Akendi Blog](http://akendi.com/blog/general-ux/)
+- [Designmodo](http://designmodo.com/design/ux-design/): Blogposts about UX disciplines.
+- [UX Mag](http://uxmag.com/): A virtual magazine about UX.
+- [UX Pin](http://blog.uxpin.com/): UX Pin blog.
+- [Johnny Holland](http://johnnyholland.org/): Johnny Holland's Blog;
+- [Inspire UX](http://www.inspireux.com/):  inspireUX focuses on the impact that User Experience has on people, business, and the world.
+- [Akendi Blog](http://akendi.com/blog/general-ux/): The Official Akendi's blog.
 - [Fool Proof](http://www.foolproof.co.uk/thinking/): Watching for new behaviours and sharing what we learn
-- [Usability Gee](http://usabilitygeek.com/)
-- [Usabilla](http://blog.usabilla.com/)
+- [Usability Geek](http://usabilitygeek.com/): A blog to evangelize about the importance of website usability.
+- [Usabilla](http://blog.usabilla.com/):  A blog by Usabilla.
 - [52 Weeks of UX](http://52weeksofux.com/)
 - [Usability Post](http://usabilitypost.com/)
 * [UX Apprentice](http://www.uxapprentice.com/);
