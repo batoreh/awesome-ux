@@ -45,10 +45,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Usabilla](http://blog.usabilla.com/):  A blog by Usabilla.
 - [52 Weeks of UX](http://52weeksofux.com/)
 - [Usability Post](http://usabilitypost.com/)
-* [UX Apprentice](http://www.uxapprentice.com/);
-* [Usability.gov](http://www.usability.gov/)
-* [UX DesignEdge](http://www.uxdesignedge.com/)
-* [Web Style Guide](http://webstyleguide.com/wsg3/index.html)
+- [UX Apprentice](http://www.uxapprentice.com/);
+- [Usability.gov](http://www.usability.gov/)
+- [UX DesignEdge](http://www.uxdesignedge.com/)
+- [Web Style Guide](http://webstyleguide.com/wsg3/index.html)
 
 ## Tools
 - http://www.invisionapp.com/
