@@ -67,13 +67,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - http://www.designerhangout.co/
 
 ## Books
-- http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758
-- http://www.amazon.com/gp/product/0321725522/
-- http://www.amazon.com/gp/product/1933820241
-- http://www.amazon.com/dp/0465050654/
+- [Don't make me think by Steve Krug](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+- [Seductive Interaction Design](http://www.amazon.com/gp/product/0321725522/)
+- [Web Form Design: Filling in the Blanks by Luke Wroblewski](http://www.amazon.com/gp/product/1933820241)
+- [The Design of Everyday Things by Don Norman](http://www.amazon.com/dp/0465050654/)
+- [A Project Guide to UX Design by Russ Unger](https://www.amazon.com/Project-Guide-Design-Experience-Designers/dp/0321607376)
 
 ## Videos
-- https://vimeo.com/15772341
+- [Ryan Singer at Future of Web Apps](https://vimeo.com/15772341)
 
 ## Flows
 - http://uxarchive.com/
