@@ -43,28 +43,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Fool Proof](http://www.foolproof.co.uk/thinking/): Watching for new behaviours and sharing what we learn
 - [Usability Geek](http://usabilitygeek.com/): A blog to evangelize about the importance of website usability.
 - [Usabilla](http://blog.usabilla.com/):  A blog by Usabilla.
-- [52 Weeks of UX](http://52weeksofux.com/)
-- [Usability Post](http://usabilitypost.com/)
-- [UX Apprentice](http://www.uxapprentice.com/);
-- [Usability.gov](http://www.usability.gov/)
-- [UX DesignEdge](http://www.uxdesignedge.com/)
-- [Web Style Guide](http://webstyleguide.com/wsg3/index.html)
+- [52 Weeks of UX](http://52weeksofux.com/): A discourse on the process of designing for real people.
+- [Usability Post](http://usabilitypost.com/): Thoughts on design and user experience by Dmitry Fadeyev
+- [UX Apprentice](http://www.uxapprentice.com/): Intrigued by the process of UX design? Want to learn the basics? This is the right place!
+- [Usability.gov](http://www.usability.gov/): A Site by USA government about usability;
+- [UX DesignEdge](http://www.uxdesignedge.com/blog): A blog by UXDesignEdge;
+
 
 ## Tools
-- http://www.invisionapp.com/
-- http://www.uxpin.com/
-- http://gomockingbird.com
-- http://uxchecklist.github.io/
+- [InVisionApp](http://www.invisionapp.com/): A Software for digital product design, design workflow and team collaboration.
+- [UXPin](http://www.uxpin.com/): Agile UX in one place: design systems, prototyping, and documentation together.- [Website wireframes: Mockingbird](http://gomockingbird.com)
+- [UX Project Checklist](http://uxchecklist.github.io/): A checklist to use as guide for an UX project;
 
 ## Design Patterns
-- http://pttrns.com/
-- http://www.lovelyui.com/
+- [Mobile Design Patterns](http://pttrns.com/)
+- [Lovely UI](http://www.lovelyui.com/)
 - http://useyourinterface.com/
-- http://inspired-ui.com/
+- [Inspired UI - Mobile Apps Design Patterns](http://inspired-ui.com/)
 
 ## Communities
-- http://ux.stackexchange.com/
-- http://www.designerhangout.co/
+- [UX Stack Exchange](http://ux.stackexchange.com/): A forum about UX stuff;
+- [Designer Hangout](http://www.designerhangout.co/): A slack for the UX community;
 
 ## Books
 - [Don't make me think by Steve Krug](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
@@ -72,7 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Web Form Design: Filling in the Blanks by Luke Wroblewski](http://www.amazon.com/gp/product/1933820241)
 - [The Design of Everyday Things by Don Norman](http://www.amazon.com/dp/0465050654/)
 - [A Project Guide to UX Design by Russ Unger](https://www.amazon.com/Project-Guide-Design-Experience-Designers/dp/0321607376)
-
+- [Web Style Guide by Patrick J. Lynch and Sarah Horton](http://webstyleguide.com/wsg3/index.html)
 ## Videos
 - [Ryan Singer at Future of Web Apps](https://vimeo.com/15772341)
 
@@ -80,21 +79,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - http://uxarchive.com/
 
 ## Inspiration
-- https://tindddle.com/
-- http://guiporn.com/
-- http://littlebigdetails.com/
-- http://abduzeedo.com/
+- [Tindddle](https://tindddle.com/): Tinder for Dribbble
+- [GUIPorn](http://guiporn.com/): Exciting GUIs;
+- [Little Big Details](http://littlebigdetails.com/): Your daily dose of design inspiration.
+- [Abduzeedo](http://abduzeedo.com/): Abduzeedo is a collective of individual writers sharing articles about architecture, design, photography and UX. 
 
 ## Freebies
-- http://makerbook.net/
-- http://pixelbuddha.net/
-- http://graphicburger.com/
+- [Makerbook](http://makerbook.net/): A hand-picked directory of the best free resources for creatives.
+- [Pixel Buddha](http://pixelbuddha.net/): Tons of resources for designers, free and premium.
+- [Graphic Burger](http://graphicburger.com/): Tasty design resources made with care for each pixel
 
 ## Guides
-- http://www.google.com/design/
-
-## Surveys
-- http://garyperlman.com/quest/
+- [Google Material Design](http://www.google.com/design/): A styleguide for material design by Google.
 
 ## Articles 
 
