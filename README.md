@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Tools](#tools)
 * [Desgin Patterns](#design-patterns)
 * [Communities](#communities)
-* [Books](#blogs)
+* [Books](#books)
 * [Videos](#videos)
 * [Flows](#flows)
 * [Inspiration](#inspiration)
