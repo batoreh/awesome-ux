@@ -72,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Design of Everyday Things by Don Norman](http://www.amazon.com/dp/0465050654/)
 - [A Project Guide to UX Design by Russ Unger](https://www.amazon.com/Project-Guide-Design-Experience-Designers/dp/0321607376)
 - [Web Style Guide by Patrick J. Lynch and Sarah Horton](http://webstyleguide.com/wsg3/index.html)
+- [The User Experience Team Of One] (https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 ## Videos
 - [Ryan Singer at Future of Web Apps](https://vimeo.com/15772341)
 
