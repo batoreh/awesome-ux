@@ -57,6 +57,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sketch](https://sketchapp.com/): A Software for digital product design.
 - [UXPin](http://www.uxpin.com/): Agile UX in one place: design systems, prototyping, and documentation together.- [Website wireframes: Mockingbird](http://gomockingbird.com)
 - [UX Project Checklist](http://uxchecklist.github.io/): A checklist to use as guide for an UX project;
+- [Pagereview](https://pagereview.io/): https://github.com/pelmenept/awesome-ux.git
 
 ## Design Patterns
 - [Mobile Design Patterns](http://pttrns.com/)
