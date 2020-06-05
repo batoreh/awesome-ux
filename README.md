@@ -52,8 +52,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Tools
 - [InVisionApp](http://www.invisionapp.com/): A Software for digital product design, design workflow and team collaboration.
+- [Framer](https://framer.com): A Software for digital product design, design workflow and team collaboration based on production ready code with easy handover for developers.
+- [Figma](https://figma.com): A Software for digital product design, design workflow and team collaboration.
+- [Sketch](https://sketchapp.com/): A Software for digital product design.
 - [UXPin](http://www.uxpin.com/): Agile UX in one place: design systems, prototyping, and documentation together.- [Website wireframes: Mockingbird](http://gomockingbird.com)
 - [UX Project Checklist](http://uxchecklist.github.io/): A checklist to use as guide for an UX project;
+- [Pagereview](https://pagereview.io/): https://github.com/pelmenept/awesome-ux.git
 
 ## Design Patterns
 - [Mobile Design Patterns](http://pttrns.com/)
@@ -73,6 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [A Project Guide to UX Design by Russ Unger](https://www.amazon.com/Project-Guide-Design-Experience-Designers/dp/0321607376)
 - [Web Style Guide by Patrick J. Lynch and Sarah Horton](http://webstyleguide.com/wsg3/index.html)
 - [Emotional Design: Why We Love (or Hate) Everyday Things by Don Norman](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367)
+- [The User Experience Team Of One] (https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 
 ## Videos
 - [Ryan Singer at Future of Web Apps](https://vimeo.com/15772341)
@@ -85,6 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GUIPorn](http://guiporn.com/): Exciting GUIs;
 - [Little Big Details](http://littlebigdetails.com/): Your daily dose of design inspiration.
 - [Abduzeedo](http://abduzeedo.com/): Abduzeedo is a collective of individual writers sharing articles about architecture, design, photography and UX. 
+- [Really Good UX] (https://www.reallygoodux.io): Consolidated, categorized - UX best practices
 
 ## Freebies
 - [Makerbook](http://makerbook.net/): A hand-picked directory of the best free resources for creatives.
