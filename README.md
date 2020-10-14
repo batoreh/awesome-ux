@@ -62,7 +62,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Design Patterns
 - [Mobile Design Patterns](http://pttrns.com/)
 - [Lovely UI](http://www.lovelyui.com/)
-- http://useyourinterface.com/
 - [Inspired UI - Mobile Apps Design Patterns](http://inspired-ui.com/)
 
 ## Communities
