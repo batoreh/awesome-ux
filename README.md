@@ -78,6 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Emotional Design: Why We Love (or Hate) Everyday Things by Don Norman](https://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367)
 - [The User Experience Team Of One](https://www.amazon.com/User-Experience-Team-One-Research/dp/1933820187)
 - [Redesigning Web Sites : Retooling for the Changing Needs of Business by Stefan Mumaw](https://www.thriftbooks.com/w/redesigning-web-sites-retooling-for-the-changing-needs-of-business-graphic-design_stefan-mumaw/2335569/#isbn=1564969533&idiq=15780827)
+- [Design for Developers by Stephanie Stimac](https://www.manning.com/books/design-for-developers)
 
 ## Videos
 - [Ryan Singer at Future of Web Apps](https://vimeo.com/15772341)
